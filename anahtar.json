@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "deep-freehold-425012-d1",
+  "private_key_id": "c53e851d200a3dd794dedefc48b561885a0c4740",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCalLLy1u+sOvSo\nKj0ihExFo6eCscd2Jamml/VNMVzD3nMr1UiaMpP8WJ6zHiCCmYpJvUhNgIsC3wae\nnsO8bf/kDr3j16P+2L2FjWOveT2HZeX15odQuzhGJoV9be3oMbAXQKuMRhp61yCq\n0VRq/mkPk6ri0r6nfjOPXZwUu7VOVuv4zLglRZypBRBUAqESaJ3ebKRC1lGYy3e0\nS+w1PLUAIpXzRt0DgXXdKuRkIAvEeuIoT3Vjxr/RqRjKT063kgE/zYFLyMiOJULB\nBIkBzjTzC99GYgiwG8BOIYI8dwCIgMNriSIoPhJr/LjGL+ND3c6qvu1zPX/oTfMr\nvrrCZJZDAgMBAAECggEAA5iPgZNXi1A/yPohrbjhCjt10nKc8j011MbWn6vcL1x+\nnZszj4AQmJEzMMrXZos/nGij0vG5WFndY6sEtfscNcubVFr7vKiBbXw/wKEiK59j\nGcMyxRbJanPoEJ8D7eb3VkMjpSVkyPfgZv/6gmwA46o1Z80r6ZByVfEdpIDw6OaW\n0nEXgbSryIf6sowLF579ELU3/tfPh99kIe4YQSltoHOKVyJTVZ6pqKBEaU8rE1HB\nm1wbl5zT4m7uANKCAxvBlB7le+w77NhLxOuH7/Y0puliFM5AkcoTl9MJ2u+Ze4fV\nRKACjCqxicgjJFaCBm7zvMlBLFAWpgq2FDNLe7j4SQKBgQDHL5Vh7Bljznj+ylGK\nsspUfzqroeSEUDLBJ5GkOopzWqlDKnYAN1utyOOTw6j2u8UQQ03AMTH8hsp/RihL\nAfG0tmw2I0iijetMjgfy8JnmZndb6/EtfX5BeYBCo/1TpulICZ6aY89kWNPVx73m\nXHLQAGe44XswUwcseOSWPRnpnwKBgQDGrBZqOIu9vGrzR75bhMoJBFwmVEttBs31\n9/0su8fJEHcoIcs0iMtbkxGmTHcEfwb5USzLzS55MmdEdfrqz2TQui7aoK8KrElO\nmX8oKo33FOLbdbMQlq3UyKha0jy+gmdqqbz+4nfCf+m5oADv2oLBI7WQNpK0DPqO\n+8JLpIEY3QKBgGWeXgzOIgnsPYhneYBURKslGa6UcnwaWjp20HPDtfyx5SayE+96\nTphzo78wFBSEqT3pyFHkB0d5EPgrt8TEoiZ65uwbxiPAWan90ApeO3XzErPfxHRb\n0LzgmtHkzgoOXnd1COhlQVpFgxVOyRAsXBrICiKlTm7R/RfwOVZ4p66rAoGBAJEk\nke+iRf0k1SHM7TYhShTSWZwrAzuwt/GV7iGrQmcTH2pzXeiQc7kANem/fUgMoYSt\nmEOAMA6dEzLB2sGHKMkQ7EAPGjJ68cd5fptSk4rKeH4Ke/qHipGk0tIfO/+Wd4VG\nYmv3+bRgDNnvGiAhDFucAf5M0Fq4DKk/JpBqq2IFAoGAYxCazHIzQK6whvtX9Trk\nogwvQEpn2kQrQsP6XjkautMfqp/IAyvAnJvmjNtHWgZU4EzXyKvEsb0IabVJdLSQ\nwC/Lk3zButnulNnXd21CGQVBUbaJP9qeWu+Zh+mQO15fAcrZtv9REavfojyz7bns\nwN8fdWCXy+eTz9NBF9PzWKw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ozanupload@deep-freehold-425012-d1.iam.gserviceaccount.com",
+  "client_id": "113017222440295657197",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ozanupload%40deep-freehold-425012-d1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
